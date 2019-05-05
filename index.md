@@ -36,6 +36,12 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+```php
+<?php
+ $code="OOXX";
+ echo $code;
+?>
+```
 
 #### Header 4
 
